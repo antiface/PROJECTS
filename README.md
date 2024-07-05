@@ -22,6 +22,7 @@ ART-RESEARCH PROJECTS:
 19. The Archives-Project Novel and Interdisciplinary Art-Research Project;
 20. Integration/Disintegration Novel;
 21. The Exhibition in Tonal Cinema part II;
+22. Seasons of The Heart (secular liturgical song cycle);
 
 - - - - - - -
 
