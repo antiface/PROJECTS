@@ -21,9 +21,10 @@ ART-RESEARCH PROJECTS:
 18. Signal Science + Noise Field Theory;
 19. The White Point Project;
 20. The Archives-Project Novel and Interdisciplinary Art-Research Project;
-21. Integration/Disintegration Novel;
-22. The Exhibition in Tonal Cinema part II;
-23. Seasons of The Heart (secular liturgical song cycle);
+21. The Historiotheque;
+22. Integration/Disintegration Novel;
+23. The Exhibition in Tonal Cinema part II;
+24. Seasons of The Heart (secular liturgical song cycle);
 
 - - - - - - -
 
