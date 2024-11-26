@@ -19,10 +19,11 @@ ART-RESEARCH PROJECTS:
 16. The Refcards-System; (+ moral temperature cards / "moraltempcards")
 17. The Painter's Almanach;
 18. Signal Science + Noise Field Theory;
-19. The Archives-Project Novel and Interdisciplinary Art-Research Project;
-20. Integration/Disintegration Novel;
-21. The Exhibition in Tonal Cinema part II;
-22. Seasons of The Heart (secular liturgical song cycle);
+19. The White Point Project;
+20. The Archives-Project Novel and Interdisciplinary Art-Research Project;
+21. Integration/Disintegration Novel;
+22. The Exhibition in Tonal Cinema part II;
+23. Seasons of The Heart (secular liturgical song cycle);
 
 - - - - - - -
 
