@@ -15,16 +15,17 @@ ART-RESEARCH PROJECTS:
 12. Diary of a Serial Painter;
 13. Rewrite Your Bliss;
 14. Memento Mori (Novel);
-15. The Datatypes Project;
-16. The Refcards-System; (+ moral temperature cards / "moraltempcards")
-17. The Painter's Almanach;
-18. Signal Science + Noise Field Theory;
-19. The White Point Project;
-20. The Archives-Project Novel and Interdisciplinary Art-Research Project;
-21. The Historiotheque;
-22. Integration/Disintegration Novel;
-23. The Exhibition in Tonal Cinema part II;
-24. Seasons of The Heart (secular liturgical song cycle);
+15. Database Arts;
+16. The Datatypes Project;
+17. The Refcards-System; (+ moral temperature cards / "moraltempcards")
+18. The Painter's Almanach;
+19. Signal Science + Noise Field Theory;
+20. The White Point Project;
+21. The Archives-Project Novel and Interdisciplinary Art-Research Project;
+22. The Historiotheque;
+23. Integration/Disintegration Novel;
+24. The Exhibition in Tonal Cinema part II;
+25. Seasons of The Heart (secular liturgical song cycle);
 
 - - - - - - -
 
