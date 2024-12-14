@@ -2,6 +2,7 @@
 EXTANT INTERDISCIPLINARY ART-RESEARCH PROJECTS.
 
 ART-RESEARCH PROJECTS:
+
 0. Pre-Exhibition in Tonal Cinema (1995-1997);
 1. The Exbibition in Tonal Cinema (1998-2002);
 2. The History-Project (circa 2001-2004); (with the reinvention of the History-Painting in July, 2001)
