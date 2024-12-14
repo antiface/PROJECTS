@@ -2,6 +2,7 @@
 EXTANT INTERDISCIPLINARY ART-RESEARCH PROJECTS.
 
 ART-RESEARCH PROJECTS:
+0. Pre-Exhibition in Tonal Cinema (1995-1997);
 1. The Exbibition in Tonal Cinema (1998-2002);
 2. The History-Project (circa 2001-2004); (with the reinvention of the History-Painting in July, 2001)
 3. Developing The Novelistic Phenomenology Methodology;
@@ -30,6 +31,7 @@ ART-RESEARCH PROJECTS:
 - - - - - - -
 
 # WRITE-UP FOR PROJECTS LIST:
+0. Pre-Exhibition in Tonal Cinema (1995-1997): This period consisted mostly in poetry and short prose, a brand and style of poetry that came to be known formally as "Tonal Cinema"; I wrote stories about something I called "Timefold" and "Storms of Ruin"; I also wrote songs for guitar and voice; I started my band with P.G.B., called "Tainted", for which I would write music for the coming years;
 1. The Exbibition in Tonal Cinema (1998-2002); this was a series of 16 novellas along with songs and paintings, that included a lot of research, which was also made up of poetic prose, and had the "tonal cinema" as a foundational metaphor, around which all the imagery and themes and concepts revolved; it was essentially a repository for what I called my "DATABASE OF IMAGES", containing hundreds if not thousands of "images" of things that I would later "refer" back to in my art and research, a real "database of images";
 2. The History-Project (circa 2001-2004); (with the reinvention of the History-Painting in July, 2001); this was also an interdisciplinary art-research project involving painting, music/sound design, and fiction and nonfiction writing; it included a novel which was about a group of public intellectuals in Montreal, Quebec, who launched an interdisciplinary art-research project of their own, also called "The History-Project", the same name as the novel and MY project also; the project within the novel was an abject failure and the novel with the same name was also an abject failure;
 3. Developing The Novelistic Phenomenology Methodology; this was the methodology for my novel-writing at the time, and was exactly what it sounds like, a novelistic phenomenology, a kind of "phenomenology of the novel";
