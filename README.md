@@ -8,37 +8,37 @@ ART-RESEARCH PROJECTS:
 2. The History-Project (circa 2001-2004); (with the reinvention of the History-Painting in July, 2001)
 3. Developing The Novelistic Phenomenology Methodology;
 4. Crackland & The Crackland Journals;
-6. Diary of a Self-portrait;
-7. The Legal Tender Project;
-8. Notes on Picasso, Cubism, and Art Historiography
-9. The Metaphysics of Art Movements;
-10. The Manifesto of Process-Painting (2004)
-11. Writing-Without-Writing;
-12. Diary of a Serial Painter;
-13. Rewrite Your Bliss;
-14. Memento Mori (Novel);
-15. Database Arts;
-16. The Datatypes Project;
-17. The Refcards-System; (+ moral temperature cards / "moraltempcards")
-18. The Painter's Almanach;
-19. Signal Science + Noise Field Theory;
-20. The White Point Project;
-21. The Archives-Project Novel and Interdisciplinary Art-Research Project;
-22. The Historiotheque;
-23. Integration/Disintegration Novel;
-24. The Exhibition in Tonal Cinema part II;
-25. Seasons of The Heart (secular liturgical song cycle);
-26. Schizobot;
-27. AntiOS;
-28. Extreme Philosophy;
-29. Critique (formalization of philosophy);
-30. Catholica (formalization of Catholic doctrine);
-31. ALX (rigorous design workflow management methodology);
-32. The Stacks-Project;
-33. Code Genres;
-34. The New Documentation;
-35. Théatre Pauvre;
-36. The Internals-Project;
+5. Diary of a Self-portrait;
+6. The Legal Tender Project;
+7. Notes on Picasso, Cubism, and Art Historiography
+8. The Metaphysics of Art Movements;
+9. The Manifesto of Process-Painting (2004)
+10. Writing-Without-Writing;
+11. Diary of a Serial Painter;
+12. Rewrite Your Bliss;
+13. Memento Mori (Novel);
+14. Database Arts;
+15. The Datatypes Project;
+16. The Refcards-System; (+ moral temperature cards / "moraltempcards")
+17. The Painter's Almanach;
+18. Signal Science + Noise Field Theory;
+19. The White Point Project;
+20. The Archives-Project Novel and Interdisciplinary Art-Research Project;
+21. The Historiotheque;
+22. Integration/Disintegration Novel;
+23. The Exhibition in Tonal Cinema part II;
+24. Seasons of The Heart (secular liturgical song cycle);
+25. Schizobot;
+26. AntiOS;
+27. Extreme Philosophy;
+28. Critique (formalization of philosophy);
+29. Catholica (formalization of Catholic doctrine);
+30. ALX (rigorous design workflow management methodology);
+31. The Stacks-Project;
+32. Code Genres;
+33. The New Documentation;
+34. Théatre Pauvre;
+35. The Internals-Project;
 
 - - - - - - -
 
@@ -57,29 +57,28 @@ ART-RESEARCH PROJECTS:
 11. Diary of a Serial Painter; this was yet another daily journal, but of the life of a serial painter this time;
 12. Rewrite Your Bliss; this was a series of essays on "deterministic prison-states and their transcendence", where everything was fundamentally a "prison-state", like the prison-state of biology all the way up to the prison-state of physical cosmology, and yet these deterministic prison-states - because they were deterministic - could be self-transcended;
 13. Memento Mori (Novel); this was a novel containing a series of stories which served as a kind of still life composition in text;
-14. The Datatypes Project; this was a project where I tried to use analogies from the real world to teach people about basic data types in code/programming;
-15. The Refcards-System; (+ moral temperature cards / "moraltempcards"); this was a system I started designing around 2014 or thereabouts that was a database system which contained "refcards" which were digital "index" cards that contained concepts; each card contained one or a few concepts and the cards formed networks of cards called "cardboxes"; it was to be the repository of all of my documentation and art-research;
-16. The Painter's Almanach; this was designed as an "almanack" but for painters, illustrating various times in the year and the themes and images and concepts that are appropriate for each time; it was a yearly calendar made for painters, with predictions and things resembling an actual Almanach/Almanack;
-17. Signal Science + Noise Field Theory; Signal Science was a "signal-based view of the universe and everything in it" and Noise Field Theory was a "noise-based view of the universe and everything in it"; I wrote hundreds of pages of research and did visual and audio experiments in "signal science" and "noise field theory"; I developed a digital painting form I called the "noise field" or "noise field painting" which was exactly that, a field of noise, modulated noise-fields;
-18. The White Point Project; this was a project where I used what I called layers of "infinitesimally off-white" hues, layered with dozens of layers, creating complex colors, which I called "The Dark Rainbow of Imaginary Colors";
-19. The Archives-Project Novel and Interdisciplinary Art-Research Project; This was a sequel to The History-Project novel with a new story about a new project called "The Archives-Project" where the same host of characters engage in a new project, first launching a "pre-mortem analysis" of the new project as well as a "post-mortem analysis" of the old failed project; they are trying NOT to have this new project fail; the "Archives_Project Novel and Interdisciplinary Art-Research Project also contains works of painting and music/sound design;
-20. Integration/Disintegration Novel; this is part three, a sequel to The Archives-Project, which was a sequel to The History-Project NOVEL; this novel introduces a new form of prose-poetry which is evanescent and ambiguous and vague; like not fully formed thoughts, in between realms of images and thought;
-21. The Exhibition in Tonal Cinema part II; a sequel to the previous sequence of 16 novellas, it's "epitome", forming a NEW DATABASE OF IMAGES with the same basic function and purpose; also an interdisciplinary art-research project;
-22. Seasons of The Heart (secular liturgical song cycle); it is what it sounds like, an interdisciplinary secular liturgical cycle, of songs, paintings, and accompanying texts, based on the idea that the heart has its own seasons, and is made up of reflections on the passage of these times and seasons;
-23. Integration/Disintegration Novel; this is the third novel in the trilogy of novels called "The Revolt of Fiction" that started with "The History-Project" and "The Archives-Project"; it is written in a new style of prose poetry that I invented which is a sequence of half-finished sentences, or fragments from the middle of imaginary sentences;
-24. The Exhibition in Tonal Cinema part II; this is a sequel to the original "Exhibition"; it has several chapters which are reminiscent of the original "Exhibition", all written in the same kind of poetic prose;
-25. Seasons of The Heart (secular liturgical song cycle); this is my year-long secular liturgical song-cycle; it will include approximately 300 or 400 songs mostly for organ and piano; there should be a piece of musical for every "season" where "seasons" can be any moment in time over the year, what I call "Qualities of Time" (QoT);
-26. Schizobot; the stupidest system in the universe; it was designed as a replacement for myself as interdisciplinary artist-researcher;
-27. AntiOS; this is an operating system that I have been working on for the last decade or so; it's designed to be the perfect work-station for knowledge workers;
-28. Extreme Philosophy; this is a piece of software I developed about 15 years or so ago and is meant to be "extreme philosophy for exteme times"; there is, however, no functional software to date, just philosophical notes;
-29. Critique (formalization of philosophy); this is an abstract formalization of philosophy which I have been working on for over a decade or so; it should have modules that correspond to concepts in philosophy;
-30. Catholica (formalization of Catholic doctrine); this is similar to the "Critique" except it's an abstract formalization of the doctrine or dogma of the Catholic faith;
-31. ALX (rigorous design workflow management methodology); this is the name that I have given to my "rigorous design workflow management methodology";
-32. The Stacks-Project;
-33. Code Genres;
-34. The New Documentation;
-35. Théatre Pauvre;
-36. The Internals-Project;
+14. Database Arts;
+15. The Datatypes Project; this was a project where I tried to use analogies from the real world to teach people about basic data types in code/programming;
+16. The Refcards-System; (+ moral temperature cards / "moraltempcards"); this was a system I started designing around 2014 or thereabouts that was a database system which contained "refcards" which were digital "index" cards that contained concepts; each card contained one or a few concepts and the cards formed networks of cards called "cardboxes"; it was to be the repository of all of my documentation and art-research;
+17. The Painter's Almanach; this was designed as an "almanack" but for painters, illustrating various times in the year and the themes and images and concepts that are appropriate for each time; it was a yearly calendar made for painters, with predictions and things resembling an actual Almanach/Almanack;
+18. Signal Science + Noise Field Theory; Signal Science was a "signal-based view of the universe and everything in it" and Noise Field Theory was a "noise-based view of the universe and everything in it"; I wrote hundreds of pages of research and did visual and audio experiments in "signal science" and "noise field theory"; I developed a digital painting form I called the "noise field" or "noise field painting" which was exactly that, a field of noise, modulated noise-fields;
+19. The White Point Project; this was a project where I used what I called layers of "infinitesimally off-white" hues, layered with dozens of layers, creating complex colors, which I called "The Dark Rainbow of Imaginary Colors";
+20. The Archives-Project Novel and Interdisciplinary Art-Research Project; This was a sequel to The History-Project novel with a new story about a new project called "The Archives-Project" where the same host of characters engage in a new project, first launching a "pre-mortem analysis" of the new project as well as a "post-mortem analysis" of the old failed project; they are trying NOT to have this new project fail; the "Archives_Project Novel and Interdisciplinary Art-Research Project also contains works of painting and music/sound design;
+21. The Historiotheque;
+22. Integration/Disintegration Novel; this is the third novel in the trilogy of novels called "The Revolt of Fiction" that started with "The History-Project" and "The Archives-Project"; it is written in a new style of prose poetry that I invented which is a sequence of half-finished sentences, or fragments from the middle of imaginary sentences; the prose is evanescent and ambiguous and vague; like not fully formed thoughts, in between realms of images and thought;
+23. The Exhibition in Tonal Cinema part II; this is a sequel to the original "Exhibition"; it has several chapters which are reminiscent of the original "Exhibition", all written in the same kind of poetic prose;  as stated, it is a sequel to the previous sequence of 16 novellas, it's "epitome", forming a NEW DATABASE OF IMAGES with the same basic function and purpose;
+24. Seasons of The Heart (secular liturgical song cycle); it is what it sounds like, an interdisciplinary secular liturgical cycle, of songs, paintings, and accompanying texts, based on the idea that the heart has its own seasons, and is made up of reflections on the passage of these times and seasons; it will include approximately 300 or 400 songs mostly for organ and piano; there should be a piece of musical for every "season" where "seasons" can be any moment in time over the year, what I call "Qualities of Time" (QoT);
+25. Schizobot; the stupidest system in the universe; it was designed as a replacement for myself as interdisciplinary artist-researcher;
+26. AntiOS; this is an operating system that I have been working on for the last decade or so; it's designed to be the perfect work-station for knowledge workers;
+27. Extreme Philosophy; this is a piece of software I developed about 15 years or so ago and is meant to be "extreme philosophy for exteme times"; there is, however, no functional software to date, just philosophical notes;
+28. Critique (formalization of philosophy); this is an abstract formalization of philosophy which I have been working on for over a decade or so; it should have modules that correspond to concepts in philosophy;
+29. Catholica (formalization of Catholic doctrine); this is similar to the "Critique" except it's an abstract formalization of the doctrine or dogma of the Catholic faith;
+30. ALX (rigorous design workflow management methodology); this is the name that I have given to my "rigorous design workflow management methodology";
+31. The Stacks-Project;
+32. Code Genres;
+33. The New Documentation;
+34. Théatre Pauvre;
+35. The Internals-Project;
 
 - - - - - - -
 
