@@ -28,6 +28,17 @@ ART-RESEARCH PROJECTS:
 23. Integration/Disintegration Novel;
 24. The Exhibition in Tonal Cinema part II;
 25. Seasons of The Heart (secular liturgical song cycle);
+26. Schizobot;
+27. AntiOS;
+28. Extreme Philosophy;
+29. Critique (formalization of philosophy);
+30. Catholica (formalization of Catholic doctrine);
+31. ALX (rigorous design workflow management methodology);
+32. The Stacks-Project;
+33. Code Genres;
+34. The New Documentation;
+35. Théatre Pauvre;
+36. The Internals-Project;
 
 - - - - - - -
 
@@ -55,6 +66,20 @@ ART-RESEARCH PROJECTS:
 20. Integration/Disintegration Novel; this is part three, a sequel to The Archives-Project, which was a sequel to The History-Project NOVEL; this novel introduces a new form of prose-poetry which is evanescent and ambiguous and vague; like not fully formed thoughts, in between realms of images and thought;
 21. The Exhibition in Tonal Cinema part II; a sequel to the previous sequence of 16 novellas, it's "epitome", forming a NEW DATABASE OF IMAGES with the same basic function and purpose; also an interdisciplinary art-research project;
 22. Seasons of The Heart (secular liturgical song cycle); it is what it sounds like, an interdisciplinary secular liturgical cycle, of songs, paintings, and accompanying texts, based on the idea that the heart has its own seasons, and is made up of reflections on the passage of these times and seasons;
+23. Integration/Disintegration Novel; this is the third novel in the trilogy of novels called "The Revolt of Fiction" that started with "The History-Project" and "The Archives-Project"; it is written in a new style of prose poetry that I invented which is a sequence of half-finished sentences, or fragments from the middle of imaginary sentences;
+24. The Exhibition in Tonal Cinema part II; this is a sequel to the original "Exhibition"; it has several chapters which are reminiscent of the original "Exhibition", all written in the same kind of poetic prose;
+25. Seasons of The Heart (secular liturgical song cycle); this is my year-long secular liturgical song-cycle; it will include approximately 300 or 400 songs mostly for organ and piano; there should be a piece of musical for every "season" where "seasons" can be any moment in time over the year, what I call "Qualities of Time" (QoT);
+26. Schizobot; the stupidest system in the universe; it was designed as a replacement for myself as interdisciplinary artist-researcher;
+27. AntiOS; this is an operating system that I have been working on for the last decade or so; it's designed to be the perfect work-station for knowledge workers;
+28. Extreme Philosophy; this is a piece of software I developed about 15 years or so ago and is meant to be "extreme philosophy for exteme times"; there is, however, no functional software to date, just philosophical notes;
+29. Critique (formalization of philosophy); this is an abstract formalization of philosophy which I have been working on for over a decade or so; it should have modules that correspond to concepts in philosophy;
+30. Catholica (formalization of Catholic doctrine); this is similar to the "Critique" except it's an abstract formalization of the doctrine or dogma of the Catholic faith;
+31. ALX (rigorous design workflow management methodology); this is the name that I have given to my "rigorous design workflow management methodology";
+32. The Stacks-Project;
+33. Code Genres;
+34. The New Documentation;
+35. Théatre Pauvre;
+36. The Internals-Project;
 
 - - - - - - -
 
